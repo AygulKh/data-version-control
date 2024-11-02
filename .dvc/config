@@ -1,0 +1,4 @@
+[core]
+    remote = remote_storage
+['remote "remote_storage"']
+    url = D:\T1\8.Git_dvc\dvc_remote
